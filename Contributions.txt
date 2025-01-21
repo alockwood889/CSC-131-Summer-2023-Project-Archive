@@ -1,5 +1,12 @@
 Contributions
 
+Notes: 
+This document is for documenting the contributions of the team members who worked on the transit application.
+
+Contributions made by the professor were provided to the group from the start.
+
+Can upload source code later if necessary.
+
 Controllers
 RouteController.java         Jalen Grant Hall
 RouteModelAssembler.java     Jalen Grant Hall
