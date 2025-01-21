@@ -1,0 +1,3 @@
+artifactId=transit-project
+groupId=edu.csus.csc131
+version=0.0.1-SNAPSHOT

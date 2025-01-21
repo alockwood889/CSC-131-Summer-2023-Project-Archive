@@ -1,0 +1,3 @@
+server.servlet.context-path=/transit/v1
+spring.data.mongodb.database=transit
+dataRoot=data
