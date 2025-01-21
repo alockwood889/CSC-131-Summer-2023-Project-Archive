@@ -11,6 +11,26 @@ TransferController.java      Alyssa Lockwood
 TransferModelAssembler.java  Alyssa Lockwood
 TripController.java          Yu Chen (Professor)  
 TripModelAssembler.java      Nancy Zhu
-TripPlanControler.java       Yu Chen (Professor)
+TripPlanController.java      Yu Chen (Professor)
 
+Data
+Route.java                  Jalen Grant Hall
+Stop.java                   Jalen Grant Hall
+StopTime.java               Yu Chen (Professor)
+Transfer.java               Alyssa Lockwood
+Trip.java                   Nancy Zhu
 
+Repositories
+RouteRepository.java        Jalen Grant Hall
+StopRepository.java         Jalen Grant Hall
+StopTimeRepository.java     Yu Chen (Professor)
+TransferRepository.java     Alyssa Lockwood
+TripRepository.java         Nancy Zhu
+
+Service Implementations
+TripPlanService.java        Yu Chen (Professor)
+TripPlanServiceImpl.java    Alyssa Lockwood, Jalen Grant Hall
+
+Models
+TripPlan.java               Yu Chen (Professor)
+TripStep.java               Yu Chen (Professor)
