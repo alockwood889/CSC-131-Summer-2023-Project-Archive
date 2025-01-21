@@ -1,0 +1,16 @@
+Contributions
+
+Controllers
+RouteController.java         Jalen Grant Hall
+RouteModelAssembler.java     Jalen Grant Hall
+StopController.java          Jalen Grant Hall
+StopModelAssembler.java      Jalen Grant Hall
+StopTimeController.java      Yu Chen (Professor)
+StopTimeModelAssembler.java  Yu Chen (Professor)
+TransferController.java      Alyssa Lockwood 
+TransferModelAssembler.java  Alyssa Lockwood
+TripController.java          Yu Chen (Professor)  
+TripModelAssembler.java      Nancy Zhu
+TripPlanControler.java       Yu Chen (Professor)
+
+
